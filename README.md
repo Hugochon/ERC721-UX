@@ -5,7 +5,7 @@ I forked the repo of my teacher, and I did my work in the React_UX folder (I sti
 
 ### To run the project
 
-Clone this repo, then go into the React_UX folder and do `pm run dev`. It will launch the website. You will then need to connect to http://localhost:5173/, and land on the Home Page of my project. Feel free to navigate on the site.
+Clone this repo, then go into the React_UX folder and do `npm run dev`. It will launch the website. You will then need to connect to http://localhost:5173/, and land on the Home Page of my project. Feel free to navigate on the site.
 
 ## Intro
 
